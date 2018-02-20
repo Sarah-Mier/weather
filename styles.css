@@ -1,0 +1,31 @@
+html {
+  height: 100%
+}
+
+body {
+  height: 100%;
+  margin: 100px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+  color: #fff;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'railway', arial, sans-serif;
+  font-weight: 300px;
+}
+
+h5 {
+  font-family: 'railway', arial, sans-serif;
+  font-size: 16px;
+}
+
+.row {
+  margin-top: 60px;
+}
+
+h1#current-conditions-icon, .forecast h3 {
+  font-size: 100px;
+}
